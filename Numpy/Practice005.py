@@ -10,6 +10,7 @@ print(arr[:3])
 print(arr[3:])
 print(arr[1:5])
 print(arr[::2])
+print(arr[arr > 20])  # element grater than 20
 
 # 2-D array
 
