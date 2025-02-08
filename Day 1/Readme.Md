@@ -1,43 +1,52 @@
-# Difference Between AI, ML, and DL
+# Aritificial Intelligence
 
-- **Machine Learning (ML):** A subset of Artificial Intelligence (AI).
-- **Deep Learning (DL):** A subset of Machine Learning (ML).
+- It is the branch of computer science that is concerned with building smart and intelligent machines.
+- example of intelligent machines are:
 
-## Definitions
+  - self driving cars
+  - speech recognition
+  - image recognition
+  - voice assistant
+  - chatbots
 
-1. **AI (Artificial Intelligence):**
-   - A branch of computer science focused on building intelligent machines.
-2. **ML (Machine Learning):**
+- example of non intelligent machines are:
+  - typewriter
+  - phone
+  - calculator
 
-   - A branch of artificial intelligence that enables computers to learn without explicit programming.
+# Machine Learning
 
-3. **DL (Deep Learning):**
-   - A subfield of machine learning that utilizes neural networks with multiple layers to model complex relationships in data.
+- Machine Learning is a tehnique to implement AI that can learn from data and make predictions or decisions without being explicitly programmed to do so.
+- Machine learning is a subset of Artificial Intelligence.
+
+# Deep Learning
+
+- Deep Learning is a subset of Machine Learning.
+- Deep Learning uses artificial neural networks to process data.
 
 # Types of Machine Learning
 
-1. **Supervised Learning:** In supervised learning, the algorithm is trained using labeled data. The model learns to map inputs to corresponding outputs based on the provided examples.
-2. **Unsupervised Learning:** In unsupervised learning, the algorithm learns from unlabeled data. The model finds patterns and relationships in the data without explicit guidance.
-3. **Reinforcement Learning:** Reinforcement learning involves an agent that receives feedback from the environment based on its actions. The agent learns by iterating and improving its actions to maximize rewards.
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
 
-# Tyes of Supervised Learning
+# Supervised Learning
 
-1. **Regression:** Predicting a continuous numeric value.
-2. **Classification:** Predicting a categorical outcome.
+- In Supervised Learning, the algorithm is trained With labeled data, which means the algorithm knows the correct output for each input.
 
-# Algorithms
+- # Types of Supervised Learning
+  - Regression
+  - Classification
 
-- 1. ## Classification
-  - **K-Nearest Neighbors:**
-  - **Decision Tree:**
-  - **Random Forest:**
-- 2. ## Regression
-  - **Logistic Regression:**
-  - **Polynomial Regression:**
-  - **Support Vector Machine (SVM):**
+# Unsupervised Learning
 
-# Types of Unsupervised Learning
+- In Unsupervised Learning, the algorithm is trained With unlabeled data, which means the algorithm does not know the correct output for each input.
+- # Types of Unsupervised Learning
+  - Clustering
+  - Dimensionality Reduction
 
-1. **Clustering:** Grouping data points based on similarity.
-2. **Dimensionality Reduction:** Reducing the number of features while preserving important information.
-3. **Association Rules:** Discovering patterns in data.
+# Reinforcement Learning
+
+- Reinforcement Learning is a machine learning technique that allows an agent to learn and make decisions based on its environment.
+- The agent takes actions in the environment and receives rewards or punishments based on its actions.
+- Main Goal of Reinforcement Learning is to maximize the reward.
